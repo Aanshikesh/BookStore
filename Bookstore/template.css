@@ -1,0 +1,40 @@
+body{
+    margin:0%;
+    padding:0%;
+    background-color: rgb(4, 54, 77);
+}
+.topbanner{
+    width:100%;
+    height:300px;
+    z-index: -1;
+}
+.bgimg{
+    height: 100%;
+    width: 100%;
+    background-image: url(Bookshelf.jpg);
+    background-size: cover;
+    z-index: -1;
+}
+.head{
+    color: white;
+    text-align: center;
+    z-index: 0;
+    height: 100%;
+    width: 100%;
+}
+.nav{
+    display: flex;
+    background-color: whitesmoke;
+    text-align: center;
+    margin-top: 0px;
+}
+.navlink{
+    text-decoration: none;
+}
+.navcon{
+    margin: 10px;
+    color: black;
+    text-align: center;
+    border-right: 1px solid black;
+    padding-right: 10px;
+}

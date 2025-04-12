@@ -1,0 +1,60 @@
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+}
+
+div.box{
+  background-color: rgb(231, 229, 229);
+  width:300px;
+  height:350px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 50px;
+}
+#logo{
+  width: 100px;
+  height:100px;
+  margin-top:20px;
+  border-radius: 50%;
+}
+#user{
+  height:100px;
+  width:100px;
+}
+#email{
+  width:250px;
+}
+#pass{
+  width:250px;
+}
+#button{
+  width:257px;
+  height:25px;
+  background-color:rgb(75, 75, 244);
+  color:aliceblue;
+}
+#check{
+  margin-top:10px;
+}
+#a1{
+  margin-left: 100px;
+}
+.german{
+  display: inline-block;
+}
+.german img{
+  width: 400px;
+  height: 400px;
+}
+.russian{
+  display: inline-block;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 12px;
+  border-radius: 10px;
+  background-color: #b9dfb6;
+  margin-top:50px;
+  height: 700px;
+  width: 1000px;
+}
